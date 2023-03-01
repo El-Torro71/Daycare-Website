@@ -1,0 +1,134 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+  }
+
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+
+  .navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+
+.navbar-title {
+    color: #FCF9EA;
+}
+
+
+#title {
+    background-color: #49BEB7;
+    color: #FCF9EA;
+    text-align: center;
+  }
+
+
+  .big-heading {
+    font-weight: bolder;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding: 3% 15% 7%;
+  }
+
+
+  #title.container-fluid {
+    padding: 3% 15% 7%;
+  }
+
+  .title-img {
+    padding-top: 70px;
+
+  }
+
+
+  .location-container {
+    padding: 50px;
+    width: 80%
+  }
+
+
+  #location {
+    color: #8f8f8f;
+
+    background-color: #FCF9EA;
+    position: relative;
+    z-index: 1
+  }
+
+
+  .location-text {
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  .location-title {
+    font-size: 1.5rem;
+    color: black;
+  }
+
+
+  #info {
+    background-color: #BADFDB;
+    position: relative;
+  z-index: 1
+  }
+
+
+  #info-header {
+    color: #FCF9EA;
+    text-align: center;
+  }
+
+
+.info {
+
+padding-bottom: 30px;
+  text-align: center;
+  background-color: #BADFDB;
+}
+
+
+
+.info-space {
+
+}
+
+
+.card-header {
+    background-color:#FCF9EA ;
+}
+
+
+
+
+
+#day-to-day{
+  background-color: #49BEB7;
+
+}
+
+
+#daily-heading {
+    text-align: center;
+    color: #FCF9EA;
+}
+
+
+.daily-text {
+  color: #FCF9EA;
+  text-align: center;
+}
+
+
+.contact-icon {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.center {
+
+  display: flex;
+  justify-content: center;
+}
